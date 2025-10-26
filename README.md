@@ -5,8 +5,4 @@ Este repositorio contiene los **scripts, resultados y documentación** asociados
 
 El propósito de este proyecto fue **comparar tres enfoques de inteligencia artificial aplicados a NPCs (personajes no jugables)**, evaluando su desempeño en adaptabilidad, latencia y satisfacción del jugador.
 
----
-
-## 🧩 Estructura del repositorio
-
 
